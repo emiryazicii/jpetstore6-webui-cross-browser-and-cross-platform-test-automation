@@ -1,0 +1,7 @@
+Logo Link	https://petstore.octoperf.com/actions/Catalog.action
+Cart Link	https://petstore.octoperf.com/actions/Cart.action?viewCart=
+Sign-In Link	https://petstore.octoperf.com/actions/Account.action?signonForm=
+Help Link	https://petstore.octoperf.com/help.html
+OctoPerf Link In The CTA Section	https://octoperf.com/
+OctoPerf Link In The PoweredBy Section	https://octoperf.com/
+MyBatis Link In The PoweredBy Section	https://mybatis.org/

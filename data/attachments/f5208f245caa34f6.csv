@@ -1,0 +1,2 @@
+You adjust the quantity of an item by typing the quantity in the item's Quantity field in the shopping cart and clicking the Update button.
+If the quantity of items requested is greater than that in stock, the In Stock field in the shopping cart will show that the item is backordered.

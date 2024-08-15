@@ -1,0 +1,3 @@
+The pet store catalog is organized hierarchically as follows: categories, products, items.
+You list the pets in a category by clicking on the category name in the left column of the main page, or by clicking on the picture representing the category.
+Once you select a category, the pet store will display a list of products within a category. Selecting a product displays a list of items and their prices. Selecting a product item displays a text and visual description of the item and the number of that item in stock.
