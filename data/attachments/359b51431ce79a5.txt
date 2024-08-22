@@ -1,0 +1,48 @@
+2024-08-22 07:06:43.474 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-08-22 07:06:43.476 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-08-22 07:06:43.476 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-08-22 07:06:43.481 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-08-22 07:07:17.374 [pool-3-thread-1] ERROR c.o.j.s.Driver - Failed to initialize WebDriver: Unable to obtain: msedgedriver, error Command failed with code: 65, executed: [--browser, MicrosoftEdge, --language-binding, java, --output, json]
+Permission denied (os error 13)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '11.0.24'
+Driver info: driver.version: Driver
+2024-08-22 07:07:17.429 [pool-3-thread-2] ERROR c.o.j.s.Driver - Failed to initialize WebDriver: Unable to obtain: msedgedriver, error Command failed with code: 65, executed: [--browser, MicrosoftEdge, --language-binding, java, --output, json]
+Permission denied (os error 13)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '11.0.24'
+Driver info: driver.version: Driver
+2024-08-22 07:07:17.445 [pool-3-thread-3] ERROR c.o.j.s.Driver - Failed to initialize WebDriver: Unable to obtain: msedgedriver, error Command failed with code: 65, executed: [--browser, MicrosoftEdge, --language-binding, java, --output, json]
+Permission denied (os error 13)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '11.0.24'
+Driver info: driver.version: Driver
+2024-08-22 07:07:25.311 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-08-22 07:07:25.357 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-08-22 07:07:25.529 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-08-22 07:07:25.538 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-08-22 07:07:27.584 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Screenshot captured for scenario: Verify Page Title and URL
+2024-08-22 07:07:27.657 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Screenshot captured for scenario: Verify Page Title and URL
+2024-08-22 07:07:27.658 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Screenshot captured for scenario: Verify Page Title and URL
+2024-08-22 07:07:27.924 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-08-22 07:07:28.517 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-08-22 07:07:28.518 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-08-22 07:07:28.728 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-08-22 07:07:28.730 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-08-22 07:07:28.958 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Register Now Link|
+2024-08-22 07:07:28.970 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-08-22 07:07:28.970 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-08-22 07:07:28.971 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-08-22 07:07:28.971 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-08-22 07:07:28.971 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-08-22 07:07:28.972 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-08-22 07:07:29.037 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Registration|
+2024-08-22 07:07:34.037 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-08-22 07:07:34.038 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-08-22 07:07:34.038 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Account.action?newAccountForm=|
+2024-08-22 07:07:34.040 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-08-22 07:07:34.043 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-08-22 07:07:34.081 [pool-3-thread-4] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-08-22 07:07:34.082 [pool-3-thread-4] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Account.action?newAccountForm=|
+2024-08-22 07:07:34.083 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-08-22 07:07:35.324 [pool-3-thread-4] INFO  c.o.j.s.Driver - Closed WebDriver instance
