@@ -1,0 +1,31 @@
+2024-09-11 07:05:30.461 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Linux
+2024-09-11 07:05:30.460 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Linux
+2024-09-11 07:05:30.465 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Linux
+2024-09-11 07:05:30.469 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Linux
+2024-09-11 07:05:42.513 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-firefox browser
+2024-09-11 07:05:42.529 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-firefox browser
+2024-09-11 07:05:42.533 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-firefox browser
+2024-09-11 07:05:42.641 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-firefox browser
+2024-09-11 07:05:43.618 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-09-11 07:05:43.621 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-09-11 07:05:43.624 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-09-11 07:05:43.629 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-09-11 07:05:43.630 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/|
+2024-09-11 07:05:43.649 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-09-11 07:05:43.649 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-09-11 07:05:43.649 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/|
+2024-09-11 07:05:43.650 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-09-11 07:05:44.535 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-09-11 07:05:44.538 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-09-11 07:05:44.635 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-09-11 07:05:44.635 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-09-11 07:05:44.638 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-09-11 07:05:44.642 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-09-11 07:05:44.643 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-09-11 07:05:44.643 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Catalog.action|
+2024-09-11 07:05:44.665 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-09-11 07:05:44.665 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Catalog.action|
+2024-09-11 07:05:44.665 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-09-11 07:05:44.835 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-09-11 07:05:44.838 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-09-11 07:05:44.855 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
