@@ -1,0 +1,18 @@
+2024-09-25 07:06:24.057 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-09-25 07:06:24.057 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-09-25 07:06:24.057 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-09-25 07:06:24.057 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-09-25 07:07:07.126 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-09-25 07:07:07.157 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-09-25 07:07:07.157 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-09-25 07:07:07.173 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-09-25 07:07:10.027 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-09-25 07:07:10.027 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-09-25 07:07:10.027 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-09-25 07:07:10.027 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-09-25 07:07:10.027 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-09-25 07:07:10.027 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/|
+2024-09-25 07:07:10.231 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-09-25 07:07:10.231 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/|
+2024-09-25 07:07:10.231 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-09-25 07:07:12.259 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
