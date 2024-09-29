@@ -1,0 +1,115 @@
+2024-09-29 07:05:15.229 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-09-29 07:05:15.229 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-09-29 07:05:15.229 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-09-29 07:05:15.229 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-09-29 07:05:42.612 [pool-3-thread-2] ERROR c.o.j.s.Driver - Failed to initialize WebDriver: Unable to obtain: msedgedriver, error Command failed with code: 65, executed: [--browser, MicrosoftEdge, --language-binding, java, --output, json]
+Permission denied (os error 13)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '11.0.24'
+Driver info: driver.version: Driver
+2024-09-29 07:05:43.550 [pool-3-thread-4] ERROR c.o.j.s.Driver - Failed to initialize WebDriver: Unable to obtain: msedgedriver, error Command failed with code: 65, executed: [--browser, MicrosoftEdge, --language-binding, java, --output, json]
+Permission denied (os error 13)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '11.0.24'
+Driver info: driver.version: Driver
+2024-09-29 07:05:43.593 [pool-3-thread-1] ERROR c.o.j.s.Driver - Failed to initialize WebDriver: Unable to obtain: msedgedriver, error Command failed with code: 65, executed: [--browser, MicrosoftEdge, --language-binding, java, --output, json]
+Permission denied (os error 13)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '11.0.24'
+Driver info: driver.version: Driver
+2024-09-29 07:05:50.799 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-09-29 07:05:50.800 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-09-29 07:05:50.802 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-09-29 07:05:50.824 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-09-29 07:05:52.323 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Screenshot captured for scenario: Verify Page Title and URL
+2024-09-29 07:05:52.329 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Screenshot captured for scenario: Verify Page Title and URL
+2024-09-29 07:05:52.382 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Screenshot captured for scenario: Verify Page Title and URL
+2024-09-29 07:05:52.778 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-09-29 07:05:53.239 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-09-29 07:05:53.241 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-09-29 07:05:53.449 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-09-29 07:05:53.514 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-09-29 07:05:53.514 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-09-29 07:05:53.514 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/help.html|
+2024-09-29 07:05:53.522 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-09-29 07:05:53.522 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/help.html|
+2024-09-29 07:05:53.523 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-09-29 07:05:53.720 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-09-29 07:05:53.721 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-09-29 07:05:53.721 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-09-29 07:05:53.722 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-09-29 07:05:53.722 [pool-3-thread-4] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-09-29 07:05:53.722 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-09-29 07:05:54.662 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-09-29 07:05:54.662 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-09-29 07:05:58.763 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-09-29 07:05:58.767 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-09-29 07:05:58.770 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-09-29 07:05:58.811 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-09-29 07:06:00.262 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-09-29 07:06:00.427 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-09-29 07:06:00.519 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-09-29 07:06:00.700 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-09-29 07:06:01.177 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-09-29 07:06:01.276 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-09-29 07:06:01.276 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-09-29 07:06:01.444 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-09-29 07:06:01.484 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Welcome Header| visible on the page
+2024-09-29 07:06:01.515 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Enter The Store Link| visible on the page
+2024-09-29 07:06:01.537 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Copyright Subtitle| visible on the page
+2024-09-29 07:06:01.703 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-09-29 07:06:01.708 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-09-29 07:06:01.798 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-09-29 07:06:01.800 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-09-29 07:06:01.823 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-09-29 07:06:01.824 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-09-29 07:06:01.857 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Logo Image| visible on the page
+2024-09-29 07:06:01.882 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Cart Image| visible on the page
+2024-09-29 07:06:01.911 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Sign-In Link| visible on the page
+2024-09-29 07:06:01.954 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-09-29 07:06:01.956 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-09-29 07:06:01.984 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Help Link| visible on the page
+2024-09-29 07:06:02.012 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Search Input Box| visible on the page
+2024-09-29 07:06:02.083 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-09-29 07:06:02.107 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Search Button| visible on the page
+2024-09-29 07:06:02.139 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |OctoPerf Link In The CTA Section| visible on the page
+2024-09-29 07:06:02.160 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |OctoPerf Link In The PoweredBy Section| visible on the page
+2024-09-29 07:06:02.174 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-09-29 07:06:02.178 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |MyBatis Link In The PoweredBy Section| visible on the page
+2024-09-29 07:06:02.204 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Register Now Link|
+2024-09-29 07:06:02.238 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Registration|
+2024-09-29 07:06:02.240 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Main Image| visible on the page
+2024-09-29 07:06:02.257 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The |Copyright Subtitle| visible on the page
+2024-09-29 07:06:02.258 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |User Id Input Box| visible on the page
+2024-09-29 07:06:02.290 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |New Password Input Box| visible on the page
+2024-09-29 07:06:02.295 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Separator Images In The Menu Content Section| visible on the page
+2024-09-29 07:06:02.308 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Repeat Password Input Box| visible on the page
+2024-09-29 07:06:02.347 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Category Images In The Quick Links Section| visible on the page
+2024-09-29 07:06:02.378 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The |Header Links| visible on the page
+2024-09-29 07:06:02.396 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Separator Images In The Quick Links Section| visible on the page
+2024-09-29 07:06:02.405 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Firstname Input Box| visible on the page
+2024-09-29 07:06:02.434 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Lastname Input Box| visible on the page
+2024-09-29 07:06:02.453 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Sidebar Images| visible on the page
+2024-09-29 07:06:02.470 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Email Input Box| visible on the page
+2024-09-29 07:06:02.490 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The |All Headers| visible on the page
+2024-09-29 07:06:02.490 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Phone Input Box| visible on the page
+2024-09-29 07:06:02.508 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Address1 Input Box| visible on the page
+2024-09-29 07:06:02.524 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Address2 Input Box| visible on the page
+2024-09-29 07:06:02.543 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |City Input Box| visible on the page
+2024-09-29 07:06:02.560 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |State Input Box| visible on the page
+2024-09-29 07:06:02.578 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Zip Input Box| visible on the page
+2024-09-29 07:06:02.595 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Country Input Box| visible on the page
+2024-09-29 07:06:02.612 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Language Preference Dropdown| visible on the page
+2024-09-29 07:06:02.628 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Favourite Category Dropdown| visible on the page
+2024-09-29 07:06:02.634 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The |All Paragraphs| visible on the page
+2024-09-29 07:06:02.661 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Enable My List Checkbox| visible on the page
+2024-09-29 07:06:02.679 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Enable My Banner Checkbox| visible on the page
+2024-09-29 07:06:02.695 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Save Account Information Button| visible on the page
+2024-09-29 07:06:02.711 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |User Information Header| visible on the page
+2024-09-29 07:06:02.727 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Account Information Header| visible on the page
+2024-09-29 07:06:02.743 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Profile Information Header| visible on the page
+2024-09-29 07:06:02.966 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-09-29 07:06:02.967 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-09-29 07:06:02.977 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-09-29 07:06:03.572 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-09-29 07:06:03.722 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
