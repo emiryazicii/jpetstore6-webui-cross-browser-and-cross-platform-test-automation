@@ -1,0 +1,43 @@
+2024-10-01 07:06:06.219 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-10-01 07:06:06.226 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-10-01 07:06:06.226 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-10-01 07:06:06.223 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Mac OS X
+2024-10-01 07:06:43.239 [pool-3-thread-3] ERROR c.o.j.s.Driver - Failed to initialize WebDriver: Could not start a new session. Response code 500. Message: session not created
+from unknown error: cannot find msedge binary 
+Host info: host: 'Mac-1727765867311.local', ip: 'fe80:0:0:0:1456:a075:412b:4dd2%en0'
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '11.0.24'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless=new], extensions: []}}]}]
+2024-10-01 07:06:43.239 [pool-3-thread-2] ERROR c.o.j.s.Driver - Failed to initialize WebDriver: Could not start a new session. Response code 500. Message: session not created
+from unknown error: cannot find msedge binary 
+Host info: host: 'Mac-1727765867311.local', ip: 'fe80:0:0:0:1456:a075:412b:4dd2%en0'
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '11.0.24'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless=new], extensions: []}}]}]
+2024-10-01 07:06:43.239 [pool-3-thread-4] ERROR c.o.j.s.Driver - Failed to initialize WebDriver: Could not start a new session. Response code 500. Message: session not created
+from unknown error: cannot find msedge binary 
+Host info: host: 'Mac-1727765867311.local', ip: 'fe80:0:0:0:1456:a075:412b:4dd2%en0'
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '11.0.24'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: MicrosoftEdge, ms:edgeOptions: {args: [--headless=new], extensions: []}}]}]
+2024-10-01 07:06:49.927 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-10-01 07:06:49.929 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-10-01 07:06:49.948 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-10-01 07:06:50.164 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-edge browser
+2024-10-01 07:06:51.779 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Screenshot captured for scenario: Verify Page Title and URL
+2024-10-01 07:06:51.840 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Screenshot captured for scenario: Verify Page Title and URL
+2024-10-01 07:06:51.842 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Screenshot captured for scenario: Verify Page Title and URL
+2024-10-01 07:06:52.274 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-01 07:06:52.275 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-01 07:06:52.275 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/|
+2024-10-01 07:06:52.290 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-01 07:06:52.290 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/|
+2024-10-01 07:06:52.291 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-01 07:06:53.051 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-01 07:06:53.052 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-01 07:06:53.072 [pool-3-thread-4] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-01 07:06:53.073 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-01 07:06:53.312 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
