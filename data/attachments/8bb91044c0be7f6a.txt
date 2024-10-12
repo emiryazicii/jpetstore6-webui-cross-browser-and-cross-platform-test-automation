@@ -1,0 +1,1098 @@
+2024-10-12 07:05:34.466 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:05:34.450 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:05:34.450 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:05:34.466 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:05:55.924 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:05:55.924 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:05:55.924 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:05:55.924 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:05:57.706 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:05:57.706 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:05:57.706 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:05:57.722 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:05:57.722 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/|
+2024-10-12 07:05:57.738 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:05:58.003 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:05:58.022 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/|
+2024-10-12 07:05:58.022 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:05:59.387 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:05:59.390 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:05:59.481 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:05:59.711 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:05:59.714 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:05:59.715 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:05:59.715 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Catalog.action|
+2024-10-12 07:05:59.720 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:05:59.720 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:05:59.723 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:05:59.723 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:05:59.820 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:05:59.820 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Catalog.action|
+2024-10-12 07:05:59.820 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:00.153 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:06:00.228 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:00.241 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:00.442 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-10-12 07:06:00.442 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:00.442 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/help.html|
+2024-10-12 07:06:00.457 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:00.457 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/help.html|
+2024-10-12 07:06:00.457 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:00.760 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Register Now Link|
+2024-10-12 07:06:00.819 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Registration|
+2024-10-12 07:06:00.820 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:00.820 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Account.action?newAccountForm=|
+2024-10-12 07:06:00.840 [pool-3-thread-4] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:00.841 [pool-3-thread-4] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Account.action?newAccountForm=|
+2024-10-12 07:06:00.841 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:01.129 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:01.216 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:01.217 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:01.236 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:01.323 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:01.324 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:01.345 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:01.432 [pool-3-thread-4] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:01.433 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:01.463 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:02.206 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:02.447 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:02.448 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Welcome Header| visible on the page
+2024-10-12 07:06:02.512 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Enter The Store Link| visible on the page
+2024-10-12 07:06:02.551 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Copyright Subtitle| visible on the page
+2024-10-12 07:06:02.608 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:03.964 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:04.635 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:04.636 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:04.650 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:04.702 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:05.685 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:05.931 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:05.948 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:06.681 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:06.684 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:07.469 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:07.471 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:07.914 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:07.931 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:07.933 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:07.973 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Logo Image| visible on the page
+2024-10-12 07:06:08.003 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Cart Image| visible on the page
+2024-10-12 07:06:08.032 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Sign-In Link| visible on the page
+2024-10-12 07:06:08.063 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Help Link| visible on the page
+2024-10-12 07:06:08.084 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected text: |Welcome to JPetStore 6|
+2024-10-12 07:06:08.084 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Actual text: |Welcome to JPetStore 6|
+2024-10-12 07:06:08.084 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The text of the |Welcome Header| matched the expected value
+2024-10-12 07:06:08.100 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Search Input Box| visible on the page
+2024-10-12 07:06:08.123 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected text: |Enter the Store|
+2024-10-12 07:06:08.124 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Actual text: |Enter the Store|
+2024-10-12 07:06:08.124 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The text of the |Enter The Store Link| matched the expected value
+2024-10-12 07:06:08.136 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Search Button| visible on the page
+2024-10-12 07:06:08.164 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected text: |Copyright www.mybatis.org|
+2024-10-12 07:06:08.164 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Actual text: |Copyright www.mybatis.org|
+2024-10-12 07:06:08.164 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The text of the |Copyright Subtitle| matched the expected value
+2024-10-12 07:06:08.176 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |OctoPerf Link In The CTA Section| visible on the page
+2024-10-12 07:06:08.222 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |OctoPerf Link In The PoweredBy Section| visible on the page
+2024-10-12 07:06:08.262 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |MyBatis Link In The PoweredBy Section| visible on the page
+2024-10-12 07:06:08.284 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:08.285 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:08.300 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:08.303 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Main Image| visible on the page
+2024-10-12 07:06:08.356 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:06:08.367 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Separator Images In The Menu Content Section| visible on the page
+2024-10-12 07:06:08.440 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:08.442 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:08.523 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Category Images In The Quick Links Section| visible on the page
+2024-10-12 07:06:08.554 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-10-12 07:06:08.620 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The |Copyright Subtitle| visible on the page
+2024-10-12 07:06:08.644 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Separator Images In The Quick Links Section| visible on the page
+2024-10-12 07:06:08.754 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |Sidebar Images| visible on the page
+2024-10-12 07:06:08.849 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Register Now Link|
+2024-10-12 07:06:08.891 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The |Header Links| visible on the page
+2024-10-12 07:06:08.907 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Registration|
+2024-10-12 07:06:08.969 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |User Id Input Box| visible on the page
+2024-10-12 07:06:09.016 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |New Password Input Box| visible on the page
+2024-10-12 07:06:09.062 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Repeat Password Input Box| visible on the page
+2024-10-12 07:06:09.103 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Firstname Input Box| visible on the page
+2024-10-12 07:06:09.106 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The |All Headers| visible on the page
+2024-10-12 07:06:09.153 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Lastname Input Box| visible on the page
+2024-10-12 07:06:09.204 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Email Input Box| visible on the page
+2024-10-12 07:06:09.241 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Phone Input Box| visible on the page
+2024-10-12 07:06:09.288 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Address1 Input Box| visible on the page
+2024-10-12 07:06:09.490 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Address2 Input Box| visible on the page
+2024-10-12 07:06:09.519 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:09.520 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:09.537 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |City Input Box| visible on the page
+2024-10-12 07:06:09.548 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:09.597 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |State Input Box| visible on the page
+2024-10-12 07:06:09.638 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Zip Input Box| visible on the page
+2024-10-12 07:06:09.674 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Country Input Box| visible on the page
+2024-10-12 07:06:09.674 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The |All Paragraphs| visible on the page
+2024-10-12 07:06:09.705 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:09.728 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Language Preference Dropdown| visible on the page
+2024-10-12 07:06:09.778 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Favourite Category Dropdown| visible on the page
+2024-10-12 07:06:09.821 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Enable My List Checkbox| visible on the page
+2024-10-12 07:06:09.864 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Enable My Banner Checkbox| visible on the page
+2024-10-12 07:06:09.905 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Save Account Information Button| visible on the page
+2024-10-12 07:06:09.944 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |User Information Header| visible on the page
+2024-10-12 07:06:09.989 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Account Information Header| visible on the page
+2024-10-12 07:06:10.028 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Profile Information Header| visible on the page
+2024-10-12 07:06:10.066 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:10.067 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:10.085 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:10.235 [pool-3-thread-4] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:10.236 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:10.255 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:10.804 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:10.887 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:11.006 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected attribute value: |https://petstore.octoperf.com/actions/Catalog.action|
+2024-10-12 07:06:11.007 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Actual attribute value: |https://petstore.octoperf.com/actions/Catalog.action|
+2024-10-12 07:06:11.007 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |href| value of the |Enter The Store Link| matched the expected value
+2024-10-12 07:06:11.728 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:12.245 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:12.668 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:12.949 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:12.950 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:12.955 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:13.866 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:14.362 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:14.362 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:16.051 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:16.187 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:16.189 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:16.380 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:16.381 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:16.516 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:16.518 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:16.559 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected text: |Sign In|
+2024-10-12 07:06:16.559 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual text: |Sign In|
+2024-10-12 07:06:16.559 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The text of the |Sign-In link| matched the expected value
+2024-10-12 07:06:16.593 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected text: |?|
+2024-10-12 07:06:16.593 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual text: |?|
+2024-10-12 07:06:16.593 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The text of the |Help Link| matched the expected value
+2024-10-12 07:06:16.627 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected text: |Elevate you load-testing with OctoPerf!|
+2024-10-12 07:06:16.628 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual text: |Elevate you load-testing with OctoPerf!|
+2024-10-12 07:06:16.628 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The text of the |CTA Section| matched the expected value
+2024-10-12 07:06:16.660 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected text: |OctoPerf|
+2024-10-12 07:06:16.661 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual text: |OctoPerf|
+2024-10-12 07:06:16.661 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The text of the |OctoPerf Link In The CTA Section| matched the expected value
+2024-10-12 07:06:16.688 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected text: |https://octoperf.com|
+2024-10-12 07:06:16.688 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual text: |https://octoperf.com|
+2024-10-12 07:06:16.688 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The text of the |OctoPerf Link In The PoweredBy Section| matched the expected value
+2024-10-12 07:06:16.715 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected text: |www.mybatis.org|
+2024-10-12 07:06:16.715 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual text: |www.mybatis.org|
+2024-10-12 07:06:16.716 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The text of the |MyBatis Link In The PoweredBy Section| matched the expected value
+2024-10-12 07:06:16.746 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Expected text: |Powered by www.mybatis.org|
+2024-10-12 07:06:16.746 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Actual text: |Powered by www.mybatis.org|
+2024-10-12 07:06:16.746 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - The text of the powered by section matched the expected value
+2024-10-12 07:06:16.770 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:16.772 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:16.773 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:16.773 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Catalog.action|
+2024-10-12 07:06:16.787 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Expected text: |Hosted by https://octoperf.com|
+2024-10-12 07:06:16.788 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Actual text: |Hosted by https://octoperf.com|
+2024-10-12 07:06:16.788 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - The text of the hosted by section matched the expected value
+2024-10-12 07:06:16.861 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:06:16.864 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:16.865 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:16.876 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:16.876 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Catalog.action|
+2024-10-12 07:06:16.876 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:16.877 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Expected text: |Saltwater, Freshwater|
+2024-10-12 07:06:16.877 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Actual text: |Saltwater, Freshwater|
+2024-10-12 07:06:16.877 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - The text of the |Fish| link matched the expected value
+2024-10-12 07:06:16.919 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Expected text: |Various Breeds|
+2024-10-12 07:06:16.920 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Actual text: |Various Breeds|
+2024-10-12 07:06:16.920 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - The text of the |Dogs| link matched the expected value
+2024-10-12 07:06:16.956 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Expected text: |Various Breeds, Exotic Varieties|
+2024-10-12 07:06:16.956 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Actual text: |Various Breeds, Exotic Varieties|
+2024-10-12 07:06:16.956 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - The text of the |Cats| link matched the expected value
+2024-10-12 07:06:16.997 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-10-12 07:06:16.999 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Expected text: |Lizards, Turtles, Snakes|
+2024-10-12 07:06:16.999 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Actual text: |Lizards, Turtles, Snakes|
+2024-10-12 07:06:16.999 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - The text of the |Reptiles| link matched the expected value
+2024-10-12 07:06:17.037 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Expected text: |Exotic Varieties|
+2024-10-12 07:06:17.037 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Actual text: |Exotic Varieties|
+2024-10-12 07:06:17.037 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - The text of the |Birds| link matched the expected value
+2024-10-12 07:06:17.077 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |Search|
+2024-10-12 07:06:17.077 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |Search|
+2024-10-12 07:06:17.077 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |value| value of the |Search Button| matched the expected value
+2024-10-12 07:06:17.120 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:17.121 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:17.152 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:17.290 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Register Now Link|
+2024-10-12 07:06:17.290 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected texts: |[Signing Up, Signing In, Working with the Product Catalog, Browsing the Catalog, Searching the Catalog, Working with the Shopping Cart, Adding and Removing Items, Updating the Quantity of an Item, Ordering Items, Reviewing an Order, Known Issues]|
+2024-10-12 07:06:17.290 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual texts: |[Signing Up, Signing In, Working with the Product Catalog, Browsing the Catalog, Searching the Catalog, Working with the Shopping Cart, Adding and Removing Items, Updating the Quantity of an Item, Ordering Items, Reviewing an Order, Known Issues]|
+2024-10-12 07:06:17.290 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The texts of the |Header Links| matched the expected values
+2024-10-12 07:06:17.337 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Registration|
+2024-10-12 07:06:17.353 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:17.353 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:17.368 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:17.384 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected text: |User Information|
+2024-10-12 07:06:17.384 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual text: |User Information|
+2024-10-12 07:06:17.384 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The text of the |User Information Header| matched the expected value
+2024-10-12 07:06:17.442 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected text: |Account Information|
+2024-10-12 07:06:17.442 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual text: |Account Information|
+2024-10-12 07:06:17.442 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The text of the |Account Information Header| matched the expected value
+2024-10-12 07:06:17.484 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected text: |Profile Information|
+2024-10-12 07:06:17.484 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual text: |Profile Information|
+2024-10-12 07:06:17.485 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The text of the |Profile Information Header| matched the expected value
+2024-10-12 07:06:17.525 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected attribute value: |Save Account Information|
+2024-10-12 07:06:17.526 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual attribute value: |Save Account Information|
+2024-10-12 07:06:17.526 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |value| value of the |Save Account Information Button| matched the expected value
+2024-10-12 07:06:17.531 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected texts: |[JPetStore Demo, Signing Up, Signing In, Working with the Product Catalog, Browsing the Catalog, Searching the Catalog, Working with the Shopping Cart, Adding and Removing Items, Updating the Quantity of an Item, Ordering Items, Reviewing An Order]|
+2024-10-12 07:06:17.531 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual texts: |[JPetStore Demo, Signing Up, Signing In, Working with the Product Catalog, Browsing the Catalog, Searching the Catalog, Working with the Shopping Cart, Adding and Removing Items, Updating the Quantity of an Item, Ordering Items, Reviewing An Order]|
+2024-10-12 07:06:17.532 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The texts of the |All Headers| matched the expected values
+2024-10-12 07:06:17.572 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected text: |Copyright www.mybatis.org|
+2024-10-12 07:06:17.572 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual text: |Copyright www.mybatis.org|
+2024-10-12 07:06:17.572 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The text of the |Copyright Subtitle| matched the expected value
+2024-10-12 07:06:17.614 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected text: |The JPetStore Demo is an online pet store. Like most e-stores, you can browse and search the product catalog, choose items to add to a shopping cart, amend the shopping cart, and order the items in the shopping cart. You can perform many of these actions without registering with or logging into the application. However, before you can order items you must log in (sign in) to the application. In order to sign in, you must have an account with the application, which is created when you register (sign up) with the application.|
+2024-10-12 07:06:17.614 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual text: |The JPetStore Demo is an online pet store. Like most e-stores, you can browse and search the product catalog, choose items to add to a shopping cart, amend the shopping cart, and order the items in the shopping cart. You can perform many of these actions without registering with or logging into the application. However, before you can order items you must log in (sign in) to the application. In order to sign in, you must have an account with the application, which is created when you register (sign up) with the application.|
+2024-10-12 07:06:17.614 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The text of the |JPetStore Demo Paragraph| matched the expected value
+2024-10-12 07:06:17.650 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected text: |To sign up, click the Sign-in link at the right end of the banner. Next, click the New User link in the resulting page. Among other information, the signup page requires you to provide a user identifier and password. This information is used to identify your account and must be provided when signing in.|
+2024-10-12 07:06:17.650 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual text: |To sign up, click the Sign-in link at the right end of the banner. Next, click the New User link in the resulting page. Among other information, the signup page requires you to provide a user identifier and password. This information is used to identify your account and must be provided when signing in.|
+2024-10-12 07:06:17.650 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The text of the |Signing Up Paragraph| matched the expected value
+2024-10-12 07:06:17.665 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Expected first selected option text: |english|
+2024-10-12 07:06:17.665 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Actual first selected option text: |english|
+2024-10-12 07:06:17.665 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - The first selected option text of the |Language Preference Dropdown| matched the expected value
+2024-10-12 07:06:17.697 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected text: |This section describes how to browse and search the product catalog.|
+2024-10-12 07:06:17.697 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual text: |This section describes how to browse and search the product catalog.|
+2024-10-12 07:06:17.697 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The text of the |Working With The Product Catalog Paragraph| matched the expected value
+2024-10-12 07:06:17.751 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected text: |You search for products by typing the product name in search field in the middle of the banner.|
+2024-10-12 07:06:17.752 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual text: |You search for products by typing the product name in search field in the middle of the banner.|
+2024-10-12 07:06:17.752 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The text of the |Searching The Catalog Paragraph| matched the expected value
+2024-10-12 07:06:17.790 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Expected first selected option text: |FISH|
+2024-10-12 07:06:17.790 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Actual first selected option text: |FISH|
+2024-10-12 07:06:17.790 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - The first selected option text of the |Favourite Category Dropdown| matched the expected value
+2024-10-12 07:06:17.790 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected texts: |[You sign in to the application by clicking the Sign-in link at the right end of the banner, filling in the user identifier and password, and clicking the Submit button., You will also be redirected to the signin page when you try to place an order and you have not signed in. Once you have signed in, you can return to your shopping session by clicking the shopping cart icon at the right end of the banner.]|
+2024-10-12 07:06:17.790 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual texts: |[You sign in to the application by clicking the Sign-in link at the right end of the banner, filling in the user identifier and password, and clicking the Submit button., You will also be redirected to the signin page when you try to place an order and you have not signed in. Once you have signed in, you can return to your shopping session by clicking the shopping cart icon at the right end of the banner.]|
+2024-10-12 07:06:17.790 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The texts of the |Signing In paragraphs| matched the expected values
+2024-10-12 07:06:17.868 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected texts: |[The pet store catalog is organized hierarchically as follows: categories, products, items., You list the pets in a category by clicking on the category name in the left column of the main page, or by clicking on the picture representing the category., Once you select a category, the pet store will display a list of products within a category. Selecting a product displays a list of items and their prices. Selecting a product item displays a text and visual description of the item and the number of that item in stock.]|
+2024-10-12 07:06:17.868 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual texts: |[The pet store catalog is organized hierarchically as follows: categories, products, items., You list the pets in a category by clicking on the category name in the left column of the main page, or by clicking on the picture representing the category., Once you select a category, the pet store will display a list of products within a category. Selecting a product displays a list of items and their prices. Selecting a product item displays a text and visual description of the item and the number of that item in stock.]|
+2024-10-12 07:06:17.868 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The texts of the |Browsing The Catalog Paragraphs| matched the expected values
+2024-10-12 07:06:17.868 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Expected all options texts: |[english, japanese]|
+2024-10-12 07:06:17.868 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Actual all options texts: |[english, japanese]|
+2024-10-12 07:06:17.868 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - All options texts of the |Language Preference Dropdown| matched the expected values
+2024-10-12 07:06:17.930 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected texts: |[You add an item to your shopping cart by clicking the Add to Cart button to the right of an item. This action also displays your shopping cart., You can remove the item by clicking the Remove button to the left of the item., To continue shopping, you select a product category from the list under the banner.]|
+2024-10-12 07:06:17.930 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual texts: |[You add an item to your shopping cart by clicking the Add to Cart button to the right of an item. This action also displays your shopping cart., You can remove the item by clicking the Remove button to the left of the item., To continue shopping, you select a product category from the list under the banner.]|
+2024-10-12 07:06:17.930 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The texts of the |Adding And Removing Items Paragraphs| matched the expected values
+2024-10-12 07:06:17.977 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Expected all options texts: |[FISH, DOGS, REPTILES, CATS, BIRDS]|
+2024-10-12 07:06:17.977 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Actual all options texts: |[FISH, DOGS, REPTILES, CATS, BIRDS]|
+2024-10-12 07:06:17.977 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - All options texts of the |Favourite Category Dropdown| matched the expected values
+2024-10-12 07:06:17.993 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected texts: |[You adjust the quantity of an item by typing the quantity in the item's Quantity field in the shopping cart and clicking the Update button., If the quantity of items requested is greater than that in stock, the In Stock field in the shopping cart will show that the item is backordered.]|
+2024-10-12 07:06:17.993 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual texts: |[You adjust the quantity of an item by typing the quantity in the item's Quantity field in the shopping cart and clicking the Update button., If the quantity of items requested is greater than that in stock, the In Stock field in the shopping cart will show that the item is backordered.]|
+2024-10-12 07:06:17.993 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The texts of the |Updating The Quantity Of An Item Paragraphs| matched the expected values
+2024-10-12 07:06:18.040 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected texts: |[You order the items in the shopping cart by selecting the Proceed to Checkout button. The pet store will display a read-only list of the shopping cart contents. To proceed with the checkout, click the Continue button., If you have not signed in, the application will display the signin page, where you will need to provide your account name and password. Otherwise, the application will display a page requesting payment and shipping information. When you have filled in the required information, you click the Submit button, and the application will display a read-only page containing your billing and shipping address. If you need to change any information, click your browser's Back button and enter the correct information. To complete the order, you click the Continue button.]|
+2024-10-12 07:06:18.040 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual texts: |[You order the items in the shopping cart by selecting the Proceed to Checkout button. The pet store will display a read-only list of the shopping cart contents. To proceed with the checkout, click the Continue button., If you have not signed in, the application will display the signin page, where you will need to provide your account name and password. Otherwise, the application will display a page requesting payment and shipping information. When you have filled in the required information, you click the Submit button, and the application will display a read-only page containing your billing and shipping address. If you need to change any information, click your browser's Back button and enter the correct information. To complete the order, you click the Continue button.]|
+2024-10-12 07:06:18.040 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The texts of the |Ordering Item Paragraphs| matched the expected values
+2024-10-12 07:06:18.040 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected texts: |[User ID:, New password:, Repeat password:]|
+2024-10-12 07:06:18.040 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual texts: |[User ID:, New password:, Repeat password:]|
+2024-10-12 07:06:18.040 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The texts of the |User Information Input Box Names| matched the expected values
+2024-10-12 07:06:18.102 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected texts: |[The final screen contains your order information., The application can be set up to send email confirmation of orders. This option can only be set when the application is deployed. See the installation instructions for further information.]|
+2024-10-12 07:06:18.102 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual texts: |[The final screen contains your order information., The application can be set up to send email confirmation of orders. This option can only be set when the application is deployed. See the installation instructions for further information.]|
+2024-10-12 07:06:18.102 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The texts of the |Reviewing An Order Paragraphs| matched the expected values
+2024-10-12 07:06:18.282 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected texts: |[First name:, Last name:, Email:, Phone:, Address 1:, Address 2:, City:, State:, Zip:, Country:]|
+2024-10-12 07:06:18.282 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual texts: |[First name:, Last name:, Email:, Phone:, Address 1:, Address 2:, City:, State:, Zip:, Country:]|
+2024-10-12 07:06:18.282 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The texts of the |Account Information Input Box Names| matched the expected values
+2024-10-12 07:06:18.390 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected texts: |[Language Preference:, Favourite Category:, Enable MyList, Enable MyBanner]|
+2024-10-12 07:06:18.390 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual texts: |[Language Preference:, Favourite Category:, Enable MyList, Enable MyBanner]|
+2024-10-12 07:06:18.390 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The texts of the |Profile Information Dropdown And Checkbox Names| matched the expected values
+2024-10-12 07:06:18.430 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Expected status: |unchecked|
+2024-10-12 07:06:18.431 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Actual status: |unchecked|
+2024-10-12 07:06:18.431 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - The status of the |enable my list checkbox| matched the expected value
+2024-10-12 07:06:18.470 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Expected status: |unchecked|
+2024-10-12 07:06:18.470 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Actual status: |unchecked|
+2024-10-12 07:06:18.470 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - The status of the |enable my banner checkbox| matched the expected value
+2024-10-12 07:06:18.790 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:18.866 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:18.866 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:18.876 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:19.084 [pool-3-thread-4] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:19.085 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:19.095 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:19.176 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:19.875 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:19.986 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:20.974 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:21.369 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:22.250 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:22.411 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:22.413 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:23.050 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:23.178 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:23.181 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:23.218 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |https://petstore.octoperf.com/actions/Catalog.action|
+2024-10-12 07:06:23.218 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |https://petstore.octoperf.com/actions/Catalog.action|
+2024-10-12 07:06:23.218 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |href| value of the |Logo Link| matched the expected value
+2024-10-12 07:06:23.245 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |https://petstore.octoperf.com/actions/Cart.action?viewCart=|
+2024-10-12 07:06:23.246 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |https://petstore.octoperf.com/actions/Cart.action?viewCart=|
+2024-10-12 07:06:23.246 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |href| value of the |Cart Link| matched the expected value
+2024-10-12 07:06:23.276 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |https://petstore.octoperf.com/actions/Account.action?signonForm=|
+2024-10-12 07:06:23.276 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |https://petstore.octoperf.com/actions/Account.action?signonForm=|
+2024-10-12 07:06:23.276 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |href| value of the |Sign-In Link| matched the expected value
+2024-10-12 07:06:23.305 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |https://petstore.octoperf.com/help.html|
+2024-10-12 07:06:23.305 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |https://petstore.octoperf.com/help.html|
+2024-10-12 07:06:23.305 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |href| value of the |Help Link| matched the expected value
+2024-10-12 07:06:23.336 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |https://octoperf.com/|
+2024-10-12 07:06:23.336 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |https://octoperf.com/|
+2024-10-12 07:06:23.336 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |href| value of the |OctoPerf Link In The CTA Section| matched the expected value
+2024-10-12 07:06:23.368 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |https://octoperf.com/|
+2024-10-12 07:06:23.368 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |https://octoperf.com/|
+2024-10-12 07:06:23.368 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |href| value of the |OctoPerf Link In The PoweredBy Section| matched the expected value
+2024-10-12 07:06:23.396 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |https://mybatis.org/|
+2024-10-12 07:06:23.396 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |https://mybatis.org/|
+2024-10-12 07:06:23.396 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |href| value of the |MyBatis Link In The PoweredBy Section| matched the expected value
+2024-10-12 07:06:23.432 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |https://petstore.octoperf.com/images/logo-topbar.svg|
+2024-10-12 07:06:23.432 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |https://petstore.octoperf.com/images/logo-topbar.svg|
+2024-10-12 07:06:23.432 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |src| value of the |Logo Image| matched the expected value
+2024-10-12 07:06:23.465 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |https://petstore.octoperf.com/images/cart.gif|
+2024-10-12 07:06:23.465 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |https://petstore.octoperf.com/images/cart.gif|
+2024-10-12 07:06:23.465 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |src| value of the |Cart Image| matched the expected value
+2024-10-12 07:06:23.495 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |https://petstore.octoperf.com/images/splash.gif|
+2024-10-12 07:06:23.495 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |https://petstore.octoperf.com/images/splash.gif|
+2024-10-12 07:06:23.495 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |src| value of the |Main Image| matched the expected value
+2024-10-12 07:06:23.570 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |[https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS]|
+2024-10-12 07:06:23.570 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |[https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS]|
+2024-10-12 07:06:23.570 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |href| values of the |Category Links In The Quick Links Section| matched the expected values
+2024-10-12 07:06:23.640 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |[https://petstore.octoperf.com/images/sm_fish.gif, https://petstore.octoperf.com/images/sm_dogs.gif, https://petstore.octoperf.com/images/sm_reptiles.gif, https://petstore.octoperf.com/images/sm_cats.gif, https://petstore.octoperf.com/images/sm_birds.gif]|
+2024-10-12 07:06:23.640 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |[https://petstore.octoperf.com/images/sm_fish.gif, https://petstore.octoperf.com/images/sm_dogs.gif, https://petstore.octoperf.com/images/sm_reptiles.gif, https://petstore.octoperf.com/images/sm_cats.gif, https://petstore.octoperf.com/images/sm_birds.gif]|
+2024-10-12 07:06:23.640 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |src| values of the |Category Images In The Quick Links Section| matched the expected values
+2024-10-12 07:06:23.674 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |[https://petstore.octoperf.com/images/separator.gif, https://petstore.octoperf.com/images/separator.gif]|
+2024-10-12 07:06:23.674 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |[https://petstore.octoperf.com/images/separator.gif, https://petstore.octoperf.com/images/separator.gif]|
+2024-10-12 07:06:23.674 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |src| values of the |Separator Images In The Menu Content Section| matched the expected values
+2024-10-12 07:06:23.731 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |[https://petstore.octoperf.com/images/separator.gif, https://petstore.octoperf.com/images/separator.gif, https://petstore.octoperf.com/images/separator.gif, https://petstore.octoperf.com/images/separator.gif]|
+2024-10-12 07:06:23.731 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |[https://petstore.octoperf.com/images/separator.gif, https://petstore.octoperf.com/images/separator.gif, https://petstore.octoperf.com/images/separator.gif, https://petstore.octoperf.com/images/separator.gif]|
+2024-10-12 07:06:23.731 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |src| values of the |Separator Images In The Quick Links Section| matched the expected values
+2024-10-12 07:06:23.800 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |[https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS]|
+2024-10-12 07:06:23.800 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |[https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS]|
+2024-10-12 07:06:23.800 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |href| values of the |Sidebar Links| matched the expected values
+2024-10-12 07:06:23.845 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:23.846 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:23.870 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |[https://petstore.octoperf.com/images/fish_icon.gif, https://petstore.octoperf.com/images/dogs_icon.gif, https://petstore.octoperf.com/images/cats_icon.gif, https://petstore.octoperf.com/images/reptiles_icon.gif, https://petstore.octoperf.com/images/birds_icon.gif]|
+2024-10-12 07:06:23.871 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |[https://petstore.octoperf.com/images/fish_icon.gif, https://petstore.octoperf.com/images/dogs_icon.gif, https://petstore.octoperf.com/images/cats_icon.gif, https://petstore.octoperf.com/images/reptiles_icon.gif, https://petstore.octoperf.com/images/birds_icon.gif]|
+2024-10-12 07:06:23.871 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |src| values of the |Sidebar Images| matched the expected values
+2024-10-12 07:06:23.971 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:23.973 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:23.973 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:23.973 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Account.action?signonForm=|
+2024-10-12 07:06:23.993 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:23.993 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Account.action?signonForm=|
+2024-10-12 07:06:23.993 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:24.018 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |[Birds, Fish, Dogs, Reptiles, Cats, Birds]|
+2024-10-12 07:06:24.018 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |[Birds, Fish, Dogs, Reptiles, Cats, Birds]|
+2024-10-12 07:06:24.018 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |alt| values of the |Main Image Links| matched the expected values
+2024-10-12 07:06:24.029 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:24.031 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:24.120 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |[72,2,280,250, 2,180,72,250, 60,250,130,320, 140,270,210,340, 225,240,295,310, 280,180,350,250]|
+2024-10-12 07:06:24.120 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |[72,2,280,250, 2,180,72,250, 60,250,130,320, 140,270,210,340, 225,240,295,310, 280,180,350,250]|
+2024-10-12 07:06:24.120 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |coords| values of the |Main Image Links| matched the expected values
+2024-10-12 07:06:24.156 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:06:24.182 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:24.184 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:24.197 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:24.248 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected attribute value: |[https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS]|
+2024-10-12 07:06:24.248 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Actual attribute value: |[https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=REPTILES, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS, https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=BIRDS]|
+2024-10-12 07:06:24.248 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The |href| values of the |Main Image Links| matched the expected values
+2024-10-12 07:06:24.312 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-10-12 07:06:24.321 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:24.321 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:24.523 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:24.524 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:24.528 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected attribute value: |[https://petstore.octoperf.com/help.html#SigningUp, https://petstore.octoperf.com/help.html#SigningIn, https://petstore.octoperf.com/help.html#Catalog, https://petstore.octoperf.com/help.html#CatalogBrowsing, https://petstore.octoperf.com/help.html#CatalogSearching, https://petstore.octoperf.com/help.html#ShoppingCart, https://petstore.octoperf.com/help.html#ShoppingCartAdd, https://petstore.octoperf.com/help.html#ShoppingCartUpdate, https://petstore.octoperf.com/help.html#Ordering, https://petstore.octoperf.com/help.html#OrderReview, https://petstore.octoperf.com/help.html#Issues]|
+2024-10-12 07:06:24.528 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Actual attribute value: |[https://petstore.octoperf.com/help.html#SigningUp, https://petstore.octoperf.com/help.html#SigningIn, https://petstore.octoperf.com/help.html#Catalog, https://petstore.octoperf.com/help.html#CatalogBrowsing, https://petstore.octoperf.com/help.html#CatalogSearching, https://petstore.octoperf.com/help.html#ShoppingCart, https://petstore.octoperf.com/help.html#ShoppingCartAdd, https://petstore.octoperf.com/help.html#ShoppingCartUpdate, https://petstore.octoperf.com/help.html#Ordering, https://petstore.octoperf.com/help.html#OrderReview, https://petstore.octoperf.com/help.html#Issues]|
+2024-10-12 07:06:24.528 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The |href| values of the |Header Links| matched the expected values
+2024-10-12 07:06:24.543 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:24.664 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Register Now Link|
+2024-10-12 07:06:24.703 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:24.705 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:24.708 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:24.708 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Registration|
+2024-10-12 07:06:25.564 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:26.408 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:26.928 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:27.197 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Username entered: |Lala_Will_724|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Password entered: |V144xDZGEDaB|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Password entered again: |V144xDZGEDaB|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Firstname entered: |Lala|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Lastname entered: |Will|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Email entered: |LalaWill19@kutch.info|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Phone entered: |576-847-9929|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Street address entered: |6006 Saul Ford|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Building number entered: |No:27193|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - City entered: |Tremblaybury|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - State entered: |AL|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Zip entered: |35092|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Country entered: |USA|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Language preference selected: |japanese|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Favourite category selected: |REPTILES|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyListCheckbox status: |unchecked|
+2024-10-12 07:06:27.706 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyBannerCheckbox status: |unchecked|
+2024-10-12 07:06:28.154 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:28.746 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - New user created
+2024-10-12 07:06:28.748 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:28.748 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:28.748 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Catalog.action|
+2024-10-12 07:06:28.773 [pool-3-thread-4] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:28.773 [pool-3-thread-4] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Catalog.action|
+2024-10-12 07:06:28.773 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:28.889 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:28.891 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:28.999 [pool-3-thread-4] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:29.000 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:29.036 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:29.255 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:29.489 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:29.490 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:29.693 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:29.694 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:29.819 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Login Helper Message| visible on the page
+2024-10-12 07:06:29.863 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Username Input Box| visible on the page
+2024-10-12 07:06:29.898 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Password Input Box| visible on the page
+2024-10-12 07:06:29.933 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Registration Helper Message| visible on the page
+2024-10-12 07:06:29.964 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Register Now Link| visible on the page
+2024-10-12 07:06:29.999 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Login Button| visible on the page
+2024-10-12 07:06:30.049 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Cart Link|
+2024-10-12 07:06:30.050 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:30.050 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Cart.action?viewCart=|
+2024-10-12 07:06:30.064 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:30.064 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Cart.action?viewCart=|
+2024-10-12 07:06:30.064 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:30.070 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Username And Password Input Box Names| visible on the page
+2024-10-12 07:06:30.089 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:30.092 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:30.259 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:30.260 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:30.260 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:30.270 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:30.302 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:30.303 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:30.313 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:31.135 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:31.302 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:06:31.350 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:31.398 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:31.451 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-10-12 07:06:31.510 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Signing Up Link|
+2024-10-12 07:06:31.510 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:31.510 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/help.html#SigningUp|
+2024-10-12 07:06:31.521 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:31.522 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/help.html#SigningUp|
+2024-10-12 07:06:31.522 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:31.989 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:31.990 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:31.996 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:33.151 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:33.200 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:33.204 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:33.457 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:33.568 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:34.919 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:35.062 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:35.063 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:35.352 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Register Now Link|
+2024-10-12 07:06:35.417 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:35.419 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:35.437 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:35.438 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:35.445 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Registration|
+2024-10-12 07:06:35.744 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:35.744 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:35.744 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:35.744 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Account.action?signonForm=|
+2024-10-12 07:06:35.745 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:35.785 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:35.785 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Account.action?signonForm=|
+2024-10-12 07:06:35.785 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:35.804 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:35.805 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:35.847 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected text: |Please enter your username and password.|
+2024-10-12 07:06:35.847 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Actual text: |Please enter your username and password.|
+2024-10-12 07:06:35.847 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The text of the |Login Helper Message| matched the expected value
+2024-10-12 07:06:35.892 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected text: |Register Now!|
+2024-10-12 07:06:35.892 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Actual text: |Register Now!|
+2024-10-12 07:06:35.892 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The text of the |Register Now Link| matched the expected value
+2024-10-12 07:06:35.938 [pool-3-thread-1] INFO  c.o.j.s.SD04_SignInPage - Expected message text: |Need a user name and password? Register Now!| 
+2024-10-12 07:06:35.938 [pool-3-thread-1] INFO  c.o.j.s.SD04_SignInPage - Actual message text: |Need a user name and password? Register Now!| 
+2024-10-12 07:06:35.938 [pool-3-thread-1] INFO  c.o.j.s.SD04_SignInPage - The text of the registration helper message matched the expected value
+2024-10-12 07:06:35.982 [pool-3-thread-1] INFO  c.o.j.s.SD04_SignInPage - Expected text: |Username:| 
+2024-10-12 07:06:35.982 [pool-3-thread-1] INFO  c.o.j.s.SD04_SignInPage - Actual text: |Username:| 
+2024-10-12 07:06:35.982 [pool-3-thread-1] INFO  c.o.j.s.SD04_SignInPage - The text of the username input box name matched the expected value
+2024-10-12 07:06:36.017 [pool-3-thread-1] INFO  c.o.j.s.SD04_SignInPage - Expected text: |Password:| 
+2024-10-12 07:06:36.018 [pool-3-thread-1] INFO  c.o.j.s.SD04_SignInPage - Actual text: |Password:| 
+2024-10-12 07:06:36.018 [pool-3-thread-1] INFO  c.o.j.s.SD04_SignInPage - The text of the password input box name matched the expected value
+2024-10-12 07:06:36.055 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected attribute value: |Login|
+2024-10-12 07:06:36.055 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Actual attribute value: |Login|
+2024-10-12 07:06:36.055 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |value| value of the |Login Button| matched the expected value
+2024-10-12 07:06:36.060 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:36.061 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:36.077 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:36.111 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:06:36.250 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-10-12 07:06:36.306 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Signing In Link|
+2024-10-12 07:06:36.306 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:36.306 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/help.html#SigningIn|
+2024-10-12 07:06:36.326 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:36.326 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/help.html#SigningIn|
+2024-10-12 07:06:36.326 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:36.450 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:36.452 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:36.466 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:36.600 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:36.601 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:36.613 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:37.339 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Username entered: |Rico_Gerhold_987|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Password entered: |8T6rM2GNo6B|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Password entered again: |8T6rM2GNo6B|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Firstname entered: |Rico|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Lastname entered: |Gerhold|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Email entered: |RicoGerhold24@brekke.org|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Phone entered: |314-926-6147|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Street address entered: |806 Odell Burg|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Building number entered: |No:30896|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - City entered: |Bernieceburgh|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - State entered: |WA|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Zip entered: |99098|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Country entered: |USA|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Language preference selected: |english|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Favourite category selected: |REPTILES|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyListCheckbox status: |unchecked|
+2024-10-12 07:06:37.531 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyBannerCheckbox status: |checked|
+2024-10-12 07:06:38.172 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:38.314 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - New user created
+2024-10-12 07:06:38.316 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:38.545 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:38.735 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:38.736 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:38.736 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Username : |Rico_Gerhold_987| 
+2024-10-12 07:06:38.736 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Password : |8T6rM2GNo6B| 
+2024-10-12 07:06:39.402 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:40.311 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Successfully logged in with valid credentials
+2024-10-12 07:06:40.312 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:40.619 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:40.773 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |My Account Link|
+2024-10-12 07:06:40.826 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |MyAccount|
+2024-10-12 07:06:40.827 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:40.827 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Account.action?editAccountForm=|
+2024-10-12 07:06:40.837 [pool-3-thread-4] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:40.837 [pool-3-thread-4] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Account.action?editAccountForm=|
+2024-10-12 07:06:40.837 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:40.912 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:41.059 [pool-3-thread-4] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:41.060 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:41.073 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:41.783 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:41.785 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:41.999 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:42.626 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:42.628 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:42.935 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:06:42.936 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:42.936 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/help.html|
+2024-10-12 07:06:42.948 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:42.948 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/help.html|
+2024-10-12 07:06:42.948 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:43.079 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:43.080 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:43.085 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:43.130 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:43.132 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:43.203 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:43.277 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:43.278 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:43.328 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected attribute value: |https://petstore.octoperf.com/actions/Account.action?newAccountForm=|
+2024-10-12 07:06:43.328 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Actual attribute value: |https://petstore.octoperf.com/actions/Account.action?newAccountForm=|
+2024-10-12 07:06:43.328 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |href| value of the |Register Now Link| matched the expected value
+2024-10-12 07:06:43.432 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:06:43.476 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:43.478 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:43.486 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:43.589 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-10-12 07:06:43.658 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Working With The Product Catalog Link|
+2024-10-12 07:06:43.659 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:43.659 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/help.html#Catalog|
+2024-10-12 07:06:43.672 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:43.673 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/help.html#Catalog|
+2024-10-12 07:06:43.673 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:44.093 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:44.094 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:44.111 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:44.181 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:44.849 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:45.245 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:45.581 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:46.068 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:46.069 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:46.503 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:46.853 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:46.855 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:47.287 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:47.288 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:47.435 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Register Now Link|
+2024-10-12 07:06:47.472 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Registration|
+2024-10-12 07:06:47.729 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:48.332 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:48.333 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:48.620 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:48.621 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:48.691 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:48.691 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:48.954 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - |invalidUsername| entered in the: |Username Input Box|
+2024-10-12 07:06:49.034 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The text of the |Password Input Box| is cleared
+2024-10-12 07:06:49.262 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - |invalidPassword| entered in the: |Password Input Box|
+2024-10-12 07:06:49.308 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:06:49.533 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-10-12 07:06:49.665 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Browsing The Catalog Link|
+2024-10-12 07:06:49.666 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:49.666 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/help.html#CatalogBrowsing|
+2024-10-12 07:06:49.717 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:49.722 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/help.html#CatalogBrowsing|
+2024-10-12 07:06:49.724 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:49.747 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Login Button|
+2024-10-12 07:06:49.808 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Failed Sign-On Message| visible on the page
+2024-10-12 07:06:49.867 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected text: |Invalid username or password. Signon failed.|
+2024-10-12 07:06:49.867 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Actual text: |Invalid username or password. Signon failed.|
+2024-10-12 07:06:49.867 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The text of the |Failed Sign-On Message| matched the expected value
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Username entered: |Carlota_Zulauf_225|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Password entered: |27s0V8CDWQ!%j|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Password entered again: |27s0V8CDWQ!%j|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Firstname entered: |Carlota|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Lastname entered: |Zulauf|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Email entered: |CarlotaZulauf15@schimmel.com|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Phone entered: |649-384-7979|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Street address entered: |408 Burl Greens|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Building number entered: |No:33253|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - City entered: |Lake Ngan|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - State entered: |RI|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Zip entered: |02963|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Country entered: |USA|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Language preference selected: |english|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Favourite category selected: |CATS|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyListCheckbox status: |checked|
+2024-10-12 07:06:49.976 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyBannerCheckbox status: |unchecked|
+2024-10-12 07:06:50.132 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:50.133 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:50.144 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:50.203 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:50.204 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:50.213 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:50.314 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |OctoPerf Link In The CTA Section|
+2024-10-12 07:06:50.315 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected page title: |SaaS and On-Premise Load Testing - OctoPerf|
+2024-10-12 07:06:50.315 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected url: |https://octoperf.com/|
+2024-10-12 07:06:50.428 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Title: |SaaS and On-Premise Load Testing - OctoPerf|
+2024-10-12 07:06:50.428 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://octoperf.com/|
+2024-10-12 07:06:50.428 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:50.495 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - New user created
+2024-10-12 07:06:50.495 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:50.671 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:50.672 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:50.678 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:50.850 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:50.851 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:50.852 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Username : |Carlota_Zulauf_225| 
+2024-10-12 07:06:50.852 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Password : |27s0V8CDWQ!%j| 
+2024-10-12 07:06:51.315 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:51.637 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:52.060 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Successfully logged in with valid credentials
+2024-10-12 07:06:52.061 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:52.503 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |My Account Link|
+2024-10-12 07:06:52.562 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |MyAccount|
+2024-10-12 07:06:52.598 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Username Cell| visible on the page
+2024-10-12 07:06:52.624 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |New Password Input Box| visible on the page
+2024-10-12 07:06:52.649 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Repeat Password Input Box| visible on the page
+2024-10-12 07:06:52.674 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Firstname Input Box| visible on the page
+2024-10-12 07:06:52.700 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Lastname Input Box| visible on the page
+2024-10-12 07:06:52.722 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Email Input Box| visible on the page
+2024-10-12 07:06:52.751 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:52.754 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Phone Input Box| visible on the page
+2024-10-12 07:06:52.789 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Address1 Input Box| visible on the page
+2024-10-12 07:06:52.816 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Address2 Input Box| visible on the page
+2024-10-12 07:06:52.847 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |City Input Box| visible on the page
+2024-10-12 07:06:52.872 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |State Input Box| visible on the page
+2024-10-12 07:06:52.897 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Zip Input Box| visible on the page
+2024-10-12 07:06:52.920 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Country Input Box| visible on the page
+2024-10-12 07:06:52.945 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Language Preference Dropdown| visible on the page
+2024-10-12 07:06:52.969 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Favourite Category Dropdown| visible on the page
+2024-10-12 07:06:52.994 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Enable My List Checkbox| visible on the page
+2024-10-12 07:06:53.017 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Enable My Banner Checkbox| visible on the page
+2024-10-12 07:06:53.045 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Save Account Information Button| visible on the page
+2024-10-12 07:06:53.071 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |User Information Header| visible on the page
+2024-10-12 07:06:53.096 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Account Information Header| visible on the page
+2024-10-12 07:06:53.123 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Profile Information Header| visible on the page
+2024-10-12 07:06:53.149 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |My Orders Link| visible on the page
+2024-10-12 07:06:53.364 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |Input Box Names| visible on the page
+2024-10-12 07:06:53.552 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:53.738 [pool-3-thread-4] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:53.739 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:53.746 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:53.995 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:54.751 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:06:54.870 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:55.769 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:55.769 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:55.868 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:55.869 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:56.609 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:56.612 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:56.686 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:06:56.760 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |OctoPerf Link In The PoweredBy Section|
+2024-10-12 07:06:56.762 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected page title: |SaaS and On-Premise Load Testing - OctoPerf|
+2024-10-12 07:06:56.762 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected url: |https://octoperf.com/|
+2024-10-12 07:06:57.306 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:57.361 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:57.399 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:06:57.533 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:06:57.534 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:06:57.725 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-10-12 07:06:57.885 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Searching The Catalog Link|
+2024-10-12 07:06:57.885 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:06:57.885 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/help.html#CatalogSearching|
+2024-10-12 07:06:57.898 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:06:57.898 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/help.html#CatalogSearching|
+2024-10-12 07:06:57.898 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:57.900 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Register Now Link|
+2024-10-12 07:06:57.972 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:06:57.976 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:06:58.005 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Registration|
+2024-10-12 07:06:58.414 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Register Now Link|
+2024-10-12 07:06:58.472 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Registration|
+2024-10-12 07:06:58.583 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Title: |SaaS and On-Premise Load Testing - OctoPerf|
+2024-10-12 07:06:58.583 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://octoperf.com/|
+2024-10-12 07:06:58.583 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:06:58.761 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:58.762 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:58.773 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:06:58.870 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:06:58.871 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:06:58.874 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:00.645 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Username entered: |Ivory_Abshire_311|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Password entered: |G25N%$%7%I|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Password entered again: |G25N%$%7%I|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Firstname entered: |Ivory|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Lastname entered: |Abshire|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Email entered: |IvoryAbshire25@ledner.net|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Phone entered: |264-862-4602|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Street address entered: |68998 Hammes Cape|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Building number entered: |No:3149|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - City entered: |Lake Shanell|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - State entered: |KS|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Zip entered: |66699|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Country entered: |USA|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Language preference selected: |english|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Favourite category selected: |REPTILES|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyListCheckbox status: |checked|
+2024-10-12 07:07:00.770 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyBannerCheckbox status: |unchecked|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Username entered: |Ciara_Bradtke_886|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Password entered: |rrW%4*0cp1|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Password entered again: |rrW%4*0cp1|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Firstname entered: |Ciara|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Lastname entered: |Bradtke|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Email entered: |CiaraBradtke39@lemke.info|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Phone entered: |623-289-3076|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Street address entered: |6052 Eugene Drives|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Building number entered: |No:416|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - City entered: |New Natalya|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - State entered: |NH|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Zip entered: |03681|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Country entered: |USA|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Language preference selected: |english|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Favourite category selected: |FISH|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyListCheckbox status: |unchecked|
+2024-10-12 07:07:00.795 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyBannerCheckbox status: |unchecked|
+2024-10-12 07:07:01.196 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:01.677 [pool-3-thread-1] INFO  c.o.j.s.SD03_RegistrationPage - New user created
+2024-10-12 07:07:01.678 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:01.717 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - New user created
+2024-10-12 07:07:01.718 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:01.967 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:07:01.967 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:07:01.968 [pool-3-thread-1] INFO  c.o.j.s.SD04_SignInPage - Username : |Ivory_Abshire_311| 
+2024-10-12 07:07:01.968 [pool-3-thread-1] INFO  c.o.j.s.SD04_SignInPage - Password : |G25N%$%7%I| 
+2024-10-12 07:07:02.126 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:07:02.128 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:07:02.128 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Username : |Ciara_Bradtke_886| 
+2024-10-12 07:07:02.128 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Password : |rrW%4*0cp1| 
+2024-10-12 07:07:02.419 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:02.796 [pool-3-thread-1] INFO  c.o.j.s.SD04_SignInPage - Successfully logged in with valid credentials
+2024-10-12 07:07:02.803 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:02.821 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:02.855 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Welcome Message| visible on the page
+2024-10-12 07:07:02.887 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Successfully logged in with valid credentials
+2024-10-12 07:07:02.889 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:02.906 [pool-3-thread-1] INFO  c.o.j.s.SD02_CatalogPage - Expected message: |Welcome Ivory!|
+2024-10-12 07:07:02.906 [pool-3-thread-1] INFO  c.o.j.s.SD02_CatalogPage - Actual message: |Welcome Ivory!|
+2024-10-12 07:07:02.906 [pool-3-thread-1] INFO  c.o.j.s.SD02_CatalogPage - The welcome message matched the expected value
+2024-10-12 07:07:03.237 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |My Account Link|
+2024-10-12 07:07:03.245 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:03.246 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:03.274 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |MyAccount|
+2024-10-12 07:07:03.314 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected text: |User Information|
+2024-10-12 07:07:03.314 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual text: |User Information|
+2024-10-12 07:07:03.314 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The text of the |User Information Header| matched the expected value
+2024-10-12 07:07:03.348 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected text: |Account Information|
+2024-10-12 07:07:03.348 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual text: |Account Information|
+2024-10-12 07:07:03.348 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The text of the |Account Information Header| matched the expected value
+2024-10-12 07:07:03.384 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-Out link|
+2024-10-12 07:07:03.385 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:03.389 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected text: |Profile Information|
+2024-10-12 07:07:03.389 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual text: |Profile Information|
+2024-10-12 07:07:03.389 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The text of the |Profile Information Header| matched the expected value
+2024-10-12 07:07:03.432 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected text: |My Orders|
+2024-10-12 07:07:03.432 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The |Sign-In Link| visible on the page
+2024-10-12 07:07:03.432 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual text: |My Orders|
+2024-10-12 07:07:03.432 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The text of the |My Orders Link| matched the expected value
+2024-10-12 07:07:03.467 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected text: |Sign In|
+2024-10-12 07:07:03.467 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Actual text: |Sign In|
+2024-10-12 07:07:03.467 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The text of the |Sign-In Link| matched the expected value
+2024-10-12 07:07:03.473 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected attribute value: |Save Account Information|
+2024-10-12 07:07:03.473 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual attribute value: |Save Account Information|
+2024-10-12 07:07:03.474 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |value| value of the |Save Account Information Button| matched the expected value
+2024-10-12 07:07:03.549 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Expected all options texts: |[english, japanese]|
+2024-10-12 07:07:03.549 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Actual all options texts: |[english, japanese]|
+2024-10-12 07:07:03.549 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - All options texts of the |Language Preference Dropdown| matched the expected values
+2024-10-12 07:07:03.598 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:07:03.620 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:07:03.622 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:07:03.657 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:03.722 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Expected all options texts: |[FISH, DOGS, REPTILES, CATS, BIRDS]|
+2024-10-12 07:07:03.722 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Actual all options texts: |[FISH, DOGS, REPTILES, CATS, BIRDS]|
+2024-10-12 07:07:03.722 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - All options texts of the |Favourite Category Dropdown| matched the expected values
+2024-10-12 07:07:03.746 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:03.747 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:03.791 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected texts: |[User ID:, New password:, Repeat password:]|
+2024-10-12 07:07:03.791 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual texts: |[User ID:, New password:, Repeat password:]|
+2024-10-12 07:07:03.791 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The texts of the |User Information Input Box Names| matched the expected values
+2024-10-12 07:07:03.859 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-10-12 07:07:03.919 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Working With The Shopping Cart Link|
+2024-10-12 07:07:03.919 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:07:03.919 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/help.html#ShoppingCart|
+2024-10-12 07:07:03.933 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:07:03.933 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/help.html#ShoppingCart|
+2024-10-12 07:07:03.933 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:07:04.007 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected texts: |[First name:, Last name:, Email:, Phone:, Address 1:, Address 2:, City:, State:, Zip:, Country:]|
+2024-10-12 07:07:04.008 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual texts: |[First name:, Last name:, Email:, Phone:, Address 1:, Address 2:, City:, State:, Zip:, Country:]|
+2024-10-12 07:07:04.008 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The texts of the |Account Information Input Box Names| matched the expected values
+2024-10-12 07:07:04.030 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |MyBatis Link In The PoweredBy Section|
+2024-10-12 07:07:04.031 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected page title: |The MyBatis Blog|
+2024-10-12 07:07:04.031 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected url: |https://blog.mybatis.org/|
+2024-10-12 07:07:04.082 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected texts: |[Language Preference:, Favourite Category:, Enable MyList, Enable MyBanner]|
+2024-10-12 07:07:04.082 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual texts: |[Language Preference:, Favourite Category:, Enable MyList, Enable MyBanner]|
+2024-10-12 07:07:04.082 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The texts of the |Profile Information Dropdown And Checkbox Names| matched the expected values
+2024-10-12 07:07:04.219 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:07:04.220 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:07:04.228 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:04.247 [pool-3-thread-4] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:07:04.248 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:07:04.256 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:04.891 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:05.679 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:05.930 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:06.799 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:08.036 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:08.382 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:08.417 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:08.418 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:09.116 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Title: |mybatis|
+2024-10-12 07:07:09.116 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://blog.mybatis.org/|
+2024-10-12 07:07:09.217 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:09.218 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:09.267 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:09.268 [pool-3-thread-1] INFO  c.o.j.s.SD02_CatalogPage - Clicked on the |Fish| in the sidebar section
+2024-10-12 07:07:09.268 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Category|
+2024-10-12 07:07:09.268 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:07:09.268 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH|
+2024-10-12 07:07:09.268 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:09.299 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:07:09.300 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH|
+2024-10-12 07:07:09.300 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:07:09.365 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Screenshot captured for scenario: Verify Navigation from Various Links
+2024-10-12 07:07:09.508 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:07:09.509 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:07:09.517 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:09.518 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:07:09.519 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:07:09.529 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:09.606 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:07:09.608 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:07:09.615 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:07:09.758 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-10-12 07:07:09.818 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Adding And Removing Items Link|
+2024-10-12 07:07:09.819 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:07:09.819 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/help.html#ShoppingCartAdd|
+2024-10-12 07:07:09.834 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:07:09.834 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/help.html#ShoppingCartAdd|
+2024-10-12 07:07:09.834 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:07:09.983 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Register Now Link|
+2024-10-12 07:07:09.997 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:07:09.998 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:07:10.005 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:10.024 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Registration|
+2024-10-12 07:07:10.917 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:11.244 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:12.067 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Username entered: |Lucio_Aufderhar_668|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Password entered: |m!5P4@Td6J|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Password entered again: |m!5P4@Td6J|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Firstname entered: |Lucio|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Lastname entered: |Aufderhar|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Email entered: |LucioAufderhar79@hartmann.info|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Phone entered: |592-227-3831|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Street address entered: |62935 Casper Circle|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Building number entered: |No:35844|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - City entered: |Vincenzotown|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - State entered: |NY|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Zip entered: |12256|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Country entered: |USA|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Language preference selected: |english|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Favourite category selected: |DOGS|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyListCheckbox status: |unchecked|
+2024-10-12 07:07:12.366 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyBannerCheckbox status: |unchecked|
+2024-10-12 07:07:12.536 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:12.799 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - New user created
+2024-10-12 07:07:12.800 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:13.302 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:07:13.303 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:07:13.303 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Username : |Lucio_Aufderhar_668| 
+2024-10-12 07:07:13.303 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Password : |m!5P4@Td6J| 
+2024-10-12 07:07:13.656 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:14.078 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Successfully logged in with valid credentials
+2024-10-12 07:07:14.079 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:14.235 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:14.403 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |My Account Link|
+2024-10-12 07:07:14.432 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |MyAccount|
+2024-10-12 07:07:14.462 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Expected attribute value: |https://petstore.octoperf.com/actions/Order.action?listOrders=|
+2024-10-12 07:07:14.462 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Actual attribute value: |https://petstore.octoperf.com/actions/Order.action?listOrders=|
+2024-10-12 07:07:14.462 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - The |href| value of the |My Orders Link| matched the expected value
+2024-10-12 07:07:14.567 [pool-3-thread-4] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:07:14.568 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:07:14.581 [pool-3-thread-4] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:14.618 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:14.619 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:14.777 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:14.778 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:14.918 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:14.919 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:14.968 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Clicked on the |Fish| in the sidebar section
+2024-10-12 07:07:14.969 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:07:14.969 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH|
+2024-10-12 07:07:15.002 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:07:15.002 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=FISH|
+2024-10-12 07:07:15.002 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:07:15.052 [pool-3-thread-1] INFO  c.o.j.s.SD02_CatalogPage - Clicked on the |Dogs| in the sidebar section
+2024-10-12 07:07:15.052 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Category|
+2024-10-12 07:07:15.052 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:07:15.052 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS|
+2024-10-12 07:07:15.108 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:07:15.108 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS|
+2024-10-12 07:07:15.108 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:07:15.236 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:07:15.237 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:07:15.252 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:15.336 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:07:15.571 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:07:15.572 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:07:15.580 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:15.728 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-10-12 07:07:15.790 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Updating The Quantity Of An Item Link|
+2024-10-12 07:07:15.790 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:07:15.790 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/help.html#ShoppingCartUpdate|
+2024-10-12 07:07:15.793 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:07:15.793 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/help.html#ShoppingCartUpdate|
+2024-10-12 07:07:15.793 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:07:15.883 [pool-3-thread-4] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:15.965 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:07:15.966 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:07:15.973 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:16.654 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:16.955 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:17.040 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:18.276 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:19.133 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:19.414 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:19.898 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:19.899 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:20.555 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:20.682 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:20.683 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:20.887 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:20.888 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:21.480 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:07:21.480 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:07:21.603 [pool-3-thread-2] INFO  c.o.j.s.SD02_CatalogPage - Clicked on the |Dogs| in the sidebar section
+2024-10-12 07:07:21.603 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:07:21.603 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS|
+2024-10-12 07:07:21.604 [pool-3-thread-1] INFO  c.o.j.s.SD02_CatalogPage - Clicked on the |Cats| in the sidebar section
+2024-10-12 07:07:21.606 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Category|
+2024-10-12 07:07:21.606 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:07:21.606 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS|
+2024-10-12 07:07:21.609 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:21.609 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:21.621 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:07:21.621 [pool-3-thread-2] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=DOGS|
+2024-10-12 07:07:21.621 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:07:21.624 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:07:21.624 [pool-3-thread-1] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=CATS|
+2024-10-12 07:07:21.624 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:07:21.765 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Register Now Link|
+2024-10-12 07:07:21.789 [pool-3-thread-2] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:07:21.790 [pool-3-thread-1] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:07:21.790 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:07:21.791 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:07:21.802 [pool-3-thread-2] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:21.804 [pool-3-thread-1] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:21.806 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Registration|
+2024-10-12 07:07:22.008 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Help Link|
+2024-10-12 07:07:22.202 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Help|
+2024-10-12 07:07:22.277 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Clicked on the |Ordering Items Link|
+2024-10-12 07:07:22.277 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected page title: |JPetStore Demo|
+2024-10-12 07:07:22.277 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Expected url: |https://petstore.octoperf.com/help.html#Ordering|
+2024-10-12 07:07:22.301 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Title: |JPetStore Demo|
+2024-10-12 07:07:22.302 [pool-3-thread-3] INFO  c.o.j.p.P01_BasePage - Actual Url: |https://petstore.octoperf.com/help.html#Ordering|
+2024-10-12 07:07:22.302 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - The page title and the URL are as expected.
+2024-10-12 07:07:22.480 [pool-3-thread-3] INFO  c.o.j.s.Driver - Closed WebDriver instance
+2024-10-12 07:07:22.481 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Attached logs to Allure report.
+2024-10-12 07:07:22.488 [pool-3-thread-3] INFO  c.o.j.s.Hooks - Starting scenario execution on Windows Server 2022
+2024-10-12 07:07:23.388 [pool-3-thread-1] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:23.479 [pool-3-thread-2] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Username entered: |Delmer_Mills_793|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Password entered: |9UCcYbI8u4&|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Password entered again: |9UCcYbI8u4&|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Firstname entered: |Delmer|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Lastname entered: |Mills|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Email entered: |DelmerMills31@fahey.com|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Phone entered: |226-675-9420|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Street address entered: |2932 Kenton Fields|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Building number entered: |No:684|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - City entered: |O'Reillymouth|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - State entered: |AZ|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Zip entered: |85084|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Country entered: |USA|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Language preference selected: |japanese|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Favourite category selected: |FISH|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyListCheckbox status: |checked|
+2024-10-12 07:07:23.883 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - Enable MyBannerCheckbox status: |unchecked|
+2024-10-12 07:07:24.530 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:24.580 [pool-3-thread-4] INFO  c.o.j.s.SD03_RegistrationPage - New user created
+2024-10-12 07:07:24.581 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:24.657 [pool-3-thread-3] INFO  c.o.j.s.Driver - Initialized WebDriver for headless-chrome browser
+2024-10-12 07:07:24.850 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |Sign-In Link|
+2024-10-12 07:07:24.850 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |SignIn|
+2024-10-12 07:07:24.851 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Username : |Delmer_Mills_793| 
+2024-10-12 07:07:24.851 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Password : |9UCcYbI8u4&| 
+2024-10-12 07:07:25.062 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:25.727 [pool-3-thread-4] INFO  c.o.j.s.SD04_SignInPage - Successfully logged in with valid credentials
+2024-10-12 07:07:25.730 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:26.032 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Clicked on the |My Account Link|
+2024-10-12 07:07:26.076 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:26.076 [pool-3-thread-1] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:26.102 [pool-3-thread-4] INFO  c.o.j.s.SD01_Common - Current page is: |MyAccount|
+2024-10-12 07:07:26.249 [pool-3-thread-3] INFO  c.o.j.s.SD01_Common - Current page is: |Welcome|
+2024-10-12 07:07:26.628 [pool-3-thread-4] INFO  c.o.j.s.SD05_MyAccountPage - My account information retrieved and stored : |{zip=85084, lastName=Mills, country=USA, address2=No:684, city=O'Reillymouth, address1=2932 Kenton Fields, userId=Delmer_Mills_793, enableMyListCheckboxStatus=checked, firstName=Delmer, languagePreference=japanese, phone=226-675-9420, favouriteCategory=FISH, state=AZ, enableMyBannerCheckboxStatus=unchecked, email=DelmerMills31@fahey.com}|
+2024-10-12 07:07:26.628 [pool-3-thread-4] INFO  c.o.j.s.SD05_MyAccountPage - Expected account data: |{zip=85084, lastName=Mills, country=USA, address2=No:684, city=O'Reillymouth, address1=2932 Kenton Fields, userId=Delmer_Mills_793, enableMyListCheckboxStatus=checked, firstName=Delmer, languagePreference=japanese, phone=226-675-9420, favouriteCategory=FISH, state=AZ, enableMyBannerCheckboxStatus=unchecked, email=DelmerMills31@fahey.com}|
+2024-10-12 07:07:26.628 [pool-3-thread-4] INFO  c.o.j.s.SD05_MyAccountPage - Actual account data: |{zip=85084, lastName=Mills, country=USA, address2=No:684, city=O'Reillymouth, address1=2932 Kenton Fields, userId=Delmer_Mills_793, enableMyListCheckboxStatus=checked, firstName=Delmer, languagePreference=japanese, phone=226-675-9420, favouriteCategory=FISH, state=AZ, enableMyBannerCheckboxStatus=unchecked, email=DelmerMills31@fahey.com}|
+2024-10-12 07:07:26.628 [pool-3-thread-4] INFO  c.o.j.s.SD05_MyAccountPage - My account information matched my registration information
+2024-10-12 07:07:26.682 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Clicked on the |Enter The Store Link|
+2024-10-12 07:07:26.683 [pool-3-thread-2] INFO  c.o.j.s.SD01_Common - Current page is: |Catalog|
+2024-10-12 07:07:26.730 [pool-3-thread-4] INFO  c.o.j.s.Driver - Closed WebDriver instance
